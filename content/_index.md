@@ -1,5 +1,5 @@
 +++
-title = "Jenny Jones"
+title = "Danny Liu"
 tagline = "Designer. Stylist. Nomad."
 +++
 
