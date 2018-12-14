@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://pedantic-franklin-cb40f0.netlify.com/"
+baseURL = "//example.com"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
